@@ -1,0 +1,13 @@
+a.wpbannerslite_placeholder, 
+a.wpbannerslite_placeholder:hover {
+	background-color: #F0F0F0 !important;
+	display: inline-block !important;
+	text-align: center !important;
+	color: #06C !important;
+	font-family: arial !important;
+	font-size: 13px !important;
+	font-weight: normal !important;
+	text-decoration: none !important;
+	padding: 0px !important;
+	margin: 0px !important;
+}
